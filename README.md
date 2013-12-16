@@ -1,11 +1,11 @@
 hockey-advanced-stats
 =====================
 
-Stats scraped from NHL.com ... Responsive Node.js style!
+## Stats scraped from NHL.com ... Responsive Node.js style!
 =====================
 
 ## Quick Start
-Testing this README.
+App that will live update stats for NHL enthusiasts.
 
 ## Database
-Using MongoDB..
+Using MongoDB..  Refer to MongoDb documetation to apply db locally.
